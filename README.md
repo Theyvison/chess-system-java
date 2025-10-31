@@ -93,7 +93,7 @@ Siga as instruções no terminal para mover as peças usando a notação padrão
 - Sistema de salvar e carregar partidas
 ## Autores
 
-- [@theyvison](https://www.github.com/theyvison)
+- <a href="https://www.github.com/theyvison" target="_blank" rel="noopener noreferrer">@theyvison</a>
 
-- Projeto desenvolvido durante o curso Java COMPLETO Programação Orientada a Objetos + Projetos, do professor [@acenelio](https://github.com/acenelio)
+- Projeto desenvolvido durante o curso Java COMPLETO Programação Orientada a Objetos + Projetos, do professor <a href="https://github.com/acenelio" target="_blank" rel="noopener noreferrer">@acenelio</a>
 
