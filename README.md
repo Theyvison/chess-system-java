@@ -30,7 +30,7 @@ Siga os passos abaixo para rodar o jogo no seu computador:
 1.&nbsp;Clone o repositorio:
 
 ```bash
-  git@github.com:Theyvison/chess-system-java.git
+  git clone git@github.com:Theyvison/chess-system-java.git
 
 ```
 
